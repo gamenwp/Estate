@@ -318,7 +318,7 @@ margin-top:9px;
     border-radius: 10px;
 }
 div.banner{
-    background:url(img/banner.jpg);
+    background:url(../img/banner.jpg);
     height:600px;
     background-size: cover;
 }
@@ -421,13 +421,13 @@ width:20px;
 background-repeat: no-repeat;
 }
 .current_listings .current_listings_item .build_options ul li:nth-child(1):before{
-    background:url(img/bed.svg);
+    background:url(../img/bed.svg);
 }
 .current_listings .current_listings_item .build_options ul li:nth-child(2):before{
-    background:url(img/bath.svg);
+    background:url(../img/bath.svg);
 }
 .current_listings .current_listings_item .build_options ul li:nth-child(3):before{
-    background:url(img/rooms.svg) no-repeat;
+    background:url(../img/rooms.svg) no-repeat;
 }
 .show_all{
     font-family: 'Poppins';
