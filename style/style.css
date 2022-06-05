@@ -577,7 +577,7 @@ min-width:350px;
     flex-direction: row;
 }
 .reviews_item .stars .star{
-background: url(/img/star_full_ico.svg);
+background: url(../img/star_full_ico.svg);
 width:18px;
 height:18px;
 }
