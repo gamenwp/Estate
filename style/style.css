@@ -48,7 +48,7 @@ text-decoration: none;
     
 }
 main{
-    background: url(/img/main_back.jpg);
+  background:url(../img/main_back.jpg);
     height: 100vh;
     background-size: cover;
     position: relative;
@@ -450,7 +450,7 @@ display: flex;
 }
 .show_all:after{
     content:'';
-    background: url(/img/arr_right.svg);
+  background:url(../img/arr_right.svg);
     width:20px;
     height:11px;
  margin-left: 4px;
@@ -582,7 +582,7 @@ width:18px;
 height:18px;
 }
 .reviews_item .stars .star.empty{
-    background: url(/img/star_empty.svg);
+  background:url(../img/star_empty.svg);
     width:18px;
     height:18px;
     }
@@ -652,11 +652,11 @@ border-radius:100px;
 background-position: center!important;
 }
 .swiper-button-prev:after{
-    background: url(/img/slide_left.svg) no-repeat;
+  background:url(../img/slide_left.svg) no-repeat;
     
 }
 .swiper-button-next:after{
-    background: url(/img/slide_right.svg)no-repeat;
+  background:url(../img/slide_right.svg)no-repeat;
 }
 section.contact{
     padding:100px 0px;
